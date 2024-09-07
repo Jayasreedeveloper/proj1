@@ -1,0 +1,16 @@
+.style{
+    background-color: aliceblue;
+    padding: 20px;
+    width: 500px;
+    height: auto;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10%;
+    display: block;
+    border: black solid 2px;
+}
+.ele{
+    margin-bottom: 30px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
